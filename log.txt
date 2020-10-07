@@ -1,0 +1,994 @@
+Z 最终幻想6  :  最终幻想6.sfc
+CPS1    32
+1941反击战  :  1941.zip
+C 惩罚者  :  punisher.zip
+C 出击飞龙  :  strider.zip
+C 雌虎战机  :  cawing.zip
+D 大魔界村  :  ghouls.zip
+J 街头霸王II 超级战斗  :  sf2hf.zip
+J 街头霸王II 四大天王  :  sf2ce.zip
+J 街头霸王II 天下斗士  :  sf2.zip
+Q 卡普空世界2  :  cworld2j.zip
+K 恐龙新世纪  :  dino.zip
+K 快打旋风  :  ffight.zip
+L 龙王  :  kod.zip
+L 龙之迷题  :  qad.zip
+L 洛克人 力量之战  :  megaman.zip
+M 梦幻冒险  :  nemo.zip
+M 名将  :  captcomm.zip
+M 魔法方块  :  pnickj.zip
+M 魔法气泡3  :  pang3.zip
+M 魔法之剑 英雄的幻想  :  msword.zip
+S 三个奇迹  :  3wonders.zip
+S 失落的世界  :  forgottn.zip
+S 摔角霸王  :  slammast.zip
+S 摔角霸王 最终之战  :  mbombrd.zip
+S 双麒儿  :  mtwins.zip
+T 吞食天地1 王朝战争  :  dynwarj.zip
+T 吞食天地2 赤壁之战  :  wofa.zip
+W 威虎战机  :  varth.zip
+W 威洛之旅  :  willow.zip
+W 问答殿祥之野望2全国版  :  qtono2j.zip
+Y 圆桌骑士  :  knights.zip
+Z 战场之狼 II  :  mercs.zip
+Z 战区88  :  unsquad.zip
+CPS2    37
+19XX-命运否决战  :  19xx.zip
+1944-循环的征服者  :  1944.zip
+C 超级方块战士II加速版  :  spf2t.zip
+C 超级街头霸王II加强版  :  ssf2t.zip
+C 超级街头霸王II-新的挑战者  :  ssf2.zip
+C 超级口袋战士-迷你混战  :  sgemf.zip
+C 超级漫画英雄  :  msh.zip
+C 超级漫画英雄对街头霸王  :  mshvsf.zip
+C 超级漫画英雄对卡普空-超级英雄的碰撞  :  mvsc.zip
+C 超级魔法大作战  :  dimahoo.zip
+C 超级摔角霸王II-连环爆裂  :  ringdest.zip
+C 超能战警-磁场原子人  :  xmcota.zip
+C 超能战警对街头霸王  :  xmvsf.zip
+C 超强魔法泡泡  :  mpang.zip
+E 恶魔救世主-吸血鬼贵族  :  vsav.zip
+CPS1    32
+1941反击战  :  1941.zip
+C 惩罚者  :  punisher.zip
+C 出击飞龙  :  strider.zip
+C 雌虎战机  :  cawing.zip
+D 大魔界村  :  ghouls.zip
+J 街头霸王II 超级战斗  :  sf2hf.zip
+J 街头霸王II 四大天王  :  sf2ce.zip
+J 街头霸王II 天下斗士  :  sf2.zip
+Q 卡普空世界2  :  cworld2j.zip
+K 恐龙新世纪  :  dino.zip
+K 快打旋风  :  ffight.zip
+L 龙王  :  kod.zip
+L 龙之迷题  :  qad.zip
+L 洛克人 力量之战  :  megaman.zip
+M 梦幻冒险  :  nemo.zip
+M 名将  :  captcomm.zip
+M 魔法方块  :  pnickj.zip
+M 魔法气泡3  :  pang3.zip
+M 魔法之剑 英雄的幻想  :  msword.zip
+S 三个奇迹  :  3wonders.zip
+S 失落的世界  :  forgottn.zip
+S 摔角霸王  :  slammast.zip
+S 摔角霸王 最终之战  :  mbombrd.zip
+S 双麒儿  :  mtwins.zip
+T 吞食天地1 王朝战争  :  dynwarj.zip
+T 吞食天地2 赤壁之战  :  wofa.zip
+W 威虎战机  :  varth.zip
+W 威洛之旅  :  willow.zip
+W 问答殿祥之野望2全国版  :  qtono2j.zip
+Y 圆桌骑士  :  knights.zip
+Z 战场之狼 II  :  mercs.zip
+Z 战区88  :  unsquad.zip
+CPS2    37
+19XX-命运否决战  :  19xx.zip
+1944-循环的征服者  :  1944.zip
+C 超级方块战士II加速版  :  spf2t.zip
+C 超级街头霸王II加强版  :  ssf2t.zip
+C 超级街头霸王II-新的挑战者  :  ssf2.zip
+C 超级口袋战士-迷你混战  :  sgemf.zip
+C 超级漫画英雄  :  msh.zip
+C 超级漫画英雄对街头霸王  :  mshvsf.zip
+C 超级漫画英雄对卡普空-超级英雄的碰撞  :  mvsc.zip
+C 超级魔法大作战  :  dimahoo.zip
+C 超级摔角霸王II-连环爆裂  :  ringdest.zip
+C 超能战警-磁场原子人  :  xmcota.zip
+C 超能战警对街头霸王  :  xmvsf.zip
+C 超强魔法泡泡  :  mpang.zip
+E 恶魔救世主-吸血鬼贵族  :  vsav.zip
+E 恶魔猎人2：恶魔的复仇  :  vhunt2.zip
+E 恶魔战士2：吸血皇族  :  vsav2.zip
+E 恶魔战士-午夜斗士  :  dstlk.zip
+L 雷鸟之翼  :  gigawing.zip
+H 火星矩阵-终极固体射击  :  mmatrix.zip
+Q 卡普空运动俱乐部  :  csclub.zip
+L 龙与地下城-暗黑秘影  :  ddsom.zip
+L 龙与地下城-毁灭之塔  :  ddtod.zip
+L 洛克人2-强大的战士  :  megaman2.zip
+N 逆转之岚  :  progear.zip
+H 环保战士  :  ecofghtr.zip
+S 少年街霸1  :  sfa.zip
+S 少年街霸2  :  sfa2.zip
+S 少年街霸3  :  sfa3.zip
+X 吸血鬼猎人-恶魔的复仇  :  nwarr.zip
+Y 异形对铁血战士  :  avsp.zip
+Z 战斗回路  :  batcir.zip
+Z 智力循环2  :  pzloop2.zip
+Z 终极街霸II  :  hsf2.zip
+Z 装甲战士  :  armwar.zip
+Z 装甲之战-全金属狂潮  :  cybots.zip
+Q 雀国志：霸王的采牌  :  jyangoku.zip
+CPS3    6
+Q 乔乔的奇妙冒险  :  jojo.zip
+Q 乔乔的奇妙冒险 - 未来遗产  :  jojoba.zip
+C 赤色大地  :  redearth.zip
+J 街头霸王 III - 新世代  :  sfiii.zip
+J 街头霸王 III - 二度冲击 巨型攻击  :  sfiii2.zip
+J 街头霸王 III - 三度冲击 未来战斗  :  sfiii3.zip
+GBC    100
+C 超级马里奥大陆  :  超级马里奥1.gb
+C 超级马里奥大陆2：六个金币（彩色改版）  :  超级马里奥2.gbc
+C 超级马里奥4  :  超级马里奥4.gb
+C 超级马里奥Deluxe  :  超级马里奥Deluxe.gbc
+C 超级马里奥医生  :  超级马里奥医生.gb
+C 超级中国人格斗  :  超级中国人.gb
+D 第1次超级机器人大战  :  第1次超级机器人大战.gb
+D 第2次超级机器人大战  :  第2次超级机器人大战.gb
+D 电梯大战EX  :  电梯大战EX.gbc
+E 恶魔城-德古拉传说  :  恶魔城1.gb
+E 恶魔城-德古拉传说2  :  恶魔城2.gb
+E 恶魔城-漆黑的前奏曲  :  恶魔城3.gb
+E 恶魔城外传-王子传奇  :  恶魔城外传 王子传奇.gb
+SD飞龙之拳EX  :  飞龙之拳外传.gbc
+G 孤岛冒险者1  :  孤岛冒险者1.gbc
+G 孤岛冒险者2--脱出双子岛  :  孤岛冒险者2.gbc
+X 西洋棋大师  :  国际象棋.gbc
+H 合金弹头-特种部队  :  合金弹头.gbc
+H 合金装备 幽灵通天塔  :  合金装备 幽灵通天塔.gbc
+H 幻想传说 换装迷宫  :  幻想传说 换装迷宫.gbc
+H 魂斗罗1  :  魂斗罗1.gb
+H 魂斗罗2-异形战争  :  魂斗罗2.gb
+J 机械战警1  :  机械战警1.gb
+J 机械战警2  :  机械战警2.gb
+J 机械战警对终结者  :  机械战警对终结者.gb
+J 街头霸王2  :  街头霸王2.gb
+J 街头霸王Alpha  :  街头霸王ZERO.gbc
+J 街头赛车手  :  街头赛车.gb
+J 金田一少年之事件簿-第10年的邀请函  :  金田一少年事件簿10周年.gbc
+J 金庸群侠传  :  金庸群侠传.gbc
+K 口袋妖怪黄 彩色版  :  口袋妖怪 黄.gb
+L 洛克人1  :  洛克人1.gb
+L 洛克人2  :  洛克人2.gb
+L 洛克人3  :  洛克人3.gb
+L 洛克人4  :  洛克人4.gb
+L 洛克人5  :  洛克人5.gb
+L 洛克人Xtreme 1 网络任务  :  洛克人X1.gbc
+L 洛克人Xtreme 2 灵魂驱逐者  :  洛克人X2.gbc
+L 洛克人X3  :  洛克人X3.gbc
+L 洛克人X5  :  洛克人X5.gbc
+M 冒险岛1  :  冒险岛1.gb
+M 冒险岛2  :  冒险岛2.gb
+X 小魔女  :  棉花小魔女.gbc
+M 名侦探柯南 机关寺院杀人事件  :  名侦探柯南 机关寺院杀人事件.gbc
+M 牧场物语1  :  牧场物语1.gbc
+M 牧场物语2  :  牧场物语2.gbc
+M 牧场物语3  :  牧场物语3.gbc
+W 威力传说  :  能量冲激.gbc
+Q 蚯蚓战士  :  蚯蚓战士.gb
+J 决斗！超能勇士 - 机甲战士最强决定战  :  热斗 超能勇士.gb
+R 热斗 斗神传  :  热斗 斗神传.gb
+R 热斗 饿狼传说2  :  热斗 饿狼传说2.gb
+R 热斗 饿狼传说特别版  :  热斗 饿狼传说特别版.gb
+R 热斗 拳皇95  :  热斗 拳皇95.gb
+R 热斗 拳皇96  :  热斗 拳皇96.gb
+R 热斗 拳皇97  :  热斗 拳皇97.gb
+R 热斗 拳皇98  :  热斗 拳皇98.gb
+R 热斗 拳皇99  :  热斗 拳皇99.gbc
+R 热斗 世界英雄2  :  热斗 世界英雄2.gb
+R 热斗 侍魂  :  热斗 侍魂.gb
+R 热斗 侍魂斩红郎无双剑  :  热斗 侍魂斩红郎无双剑.gb
+R 热血硬派 番外乱斗篇  :  热血硬派 番外乱斗篇.gb
+R 忍者龙剑传  :  忍者龙剑传.gb
+R 忍者时代  :  忍者时代.gbc
+R 忍者蛙1  :  忍者蛙1.gb
+R 忍者蛙2  :  忍者蛙2.gb
+R 忍者蛙和双截龙  :  忍者蛙和双截龙.gb
+S 塞尔达传说1 梦见岛DX  :  塞尔达传说1 梦见岛DX.gbc
+S 塞尔达传说2 大地之章  :  塞尔达传说2 大地之章.gbc
+S 塞尔达传说3 时空之章  :  塞尔达传说3 时空之章.gbc
+S 三国志 傲视天下  :  三国志 傲视天下.gbc
+S 三国志彩色中文版二代  :  三国志.gbc
+S 桑塔  :  桑塔.gbc
+S 生化尖兵  :  生化尖兵.gb
+S 生化危机 最终逃亡  :  生化危机 最终逃亡.gbc
+S 生化危机  :  生化危机.gbc
+S 圣剑传说  :  圣剑传说.gb
+S 双截龙1  :  双截龙1.gb
+S 双截龙2  :  双截龙2.gb
+S 双截龙3  :  双截龙3.gb
+T 太空战士4  :  太空战士4.gb
+T 吞食天地 三国英雄传  :  吞食天地 三国英雄传.gb
+T 吞食天地 赤壁之战  :  吞食天地1 赤壁之战.gbc
+T 吞食天地 真三国无双2  :  吞食天地2 真三国无双.gbc
+W 瓦里奥大陆1  :  瓦力欧大陆1.gb
+W 瓦里奥大陆2  :  瓦力欧大陆2.gbc
+W 瓦里奥大陆3  :  瓦力欧大陆3.gbc
+Y 英雄剑（仙剑奇侠传）  :  仙剑奇侠传.gbc
+X 星海传说 蔚蓝星球  :  星海传说.gbc
+X 星之卡比1  :  星之卡比1.gb
+X 星之卡比2  :  星之卡比2.gb
+X 幸运的卢克  :  幸运的卢克.gbc
+Y 异型战机1  :  异型战机1.gb
+Y 异型战机2  :  异型战机2.gb
+Y 异型战机DX  :  异型战机DX.gbc
+Y 银河战士2  :  银河战士2.gb
+Y 勇者斗恶龙 怪兽篇1  :  勇者斗恶龙 怪兽篇1.gbc
+Y 勇者斗恶龙 怪兽篇2  :  勇者斗恶龙 怪兽篇2.gbc
+Y 宇宙巡航机2  :  宇宙巡航机.gb
+Z 终结者2审判日  :  终结者2.gb
+MAME[FBA2012]    74
+C 彩京1945改-3代  :  1945kiii.zip
+S 石破天惊  :  agallet.zip
+Y 异型魂斗罗  :  aliens.zip
+L 龙行忍者  :  baddudes.zip
+F 疯狂枪支  :  batsugun.zip
+X 希特勒复活  :  bionicc.zip
+C 出击兵蜂  :  blswhstl.zip
+D 刀锋领主  :  bmaster.zip
+D 地狱小和尚  :  bonzeadv.zip
+H 糊涂忍者  :  charlien.zip
+Z 中华大仙  :  chukatai.zip
+Z 战斗原始人  :  cninja.zip
+H 魂斗罗  :  contra.zip
+N 怒首领蜂  :  ddonpach.zip
+S 双截龙  :  ddragon.zip
+S 双截龙2  :  ddragon2.zip
+S 双截龙3  :  ddragon3.zip
+E 饿流祸  :  devstors.zip
+L 雷射战机  :  dogyuun.zip
+C 长空超少年  :  esprade.zip
+T 天蚕变幻想曲  :  fantasia.zip
+Z 征战者  :  gaia.zip
+Z 捉虫敢死队  :  gemini.zip
+L 雷鸟之翼凤凰版  :  gigawing.zip
+Z 战斧  :  goldnaxe.zip
+Y 宇宙巡航舰2  :  gradius2.zip
+Y 宇宙巡航舰3  :  gradius3.zip
+D 电神魔傀 II  :  grdians.zip
+S 森林保护者  :  growl.zip
+W 武装飞鸟  :  gunbird.zip
+G 钢炮部队2  :  gunforc2.zip
+G 钢炮部队  :  gunforce.zip
+H 荒野大镖客  :  gunsmoke.zip
+Y 狱门山物语  :  guwange.zip
+D 大力工头阿源  :  hharry.zip
+T 铁钩船长  :  hook.zip
+H 海底大作战  :  inthunt.zip
+D 斗神光辉  :  karatblz.zip
+G 功夫踢馆  :  kungfum.zip
+Y 影子传说  :  lkage.zip
+Y 隐忍  :  metmqstr.zip
+L 绿色兵团2  :  mia.zip
+Z 最后的忍道  :  nspirit.zip
+Q 麒麟-OS战警  :  osman.zip
+H 豪血寺外传  :  plegends.zip
+T 脱狱 - 战俘  :  pow.zip
+H 豪血寺一族  :  powerins.zip
+Y 原始岛  :  prehisle.zip
+L 雷电  :  raiden.zip
+D 打击者 1945  :  s1945.zip
+D 打击者 1945 II  :  s1945ii.zip
+M 美少女战士 - 水手月亮  :  sailormn.zip
+C 超级魂斗罗  :  scontra.zip
+J 街头霸王  :  sf.zip
+B 变身忍者  :  shadfrce.zip
+C 沉默之龙  :  silentd.zip
+Z 中东战争-联合大作战  :  silkworm.zip
+Y 银色千年  :  silvmil.zip
+Z 战国Ace  :  sngkace.zip
+X 雪人兄弟3-不可思议的冒险  :  snowbro3.zip
+C 超级街头霸王2-新的挑战者  :  ssf2.zip
+L 落日骑士（4P版）  :  ssriders.zip
+L 雷龙2  :  tdragon2.zip
+L 雷龙  :  tdragonb.zip
+R 忍者神龟（4P版）  :  tmnt.zip
+R 忍者神龟 2（4P版）  :  tmnt2.zip
+Y 硬汉  :  tturf.zip
+X 吸尘小子  :  tumblep.zip
+C 超级空军  :  turbofrc.zip
+B 暴力刑警  :  uccops.zip
+Z 罪恶战士2  :  vendettaj.zip
+V5战机  :  vfive.zip
+C 成龙踢馆2  :  vigilant.zip
+X战警（4P版）  :  xmen.zip
+MAME[FBNEO]    22
+64号街-一个侦探的故事  :  64street.zip
+M 美丽新世界  :  asterix.zip
+B 蝙蝠骑警香港版  :  batriderhk.zip
+X 徐徐大作战（迷你游戏锦标赛）  :  bishi.zip
+Y 宇宙野兔  :  bucky.zip
+L 龙珠z格斗  :  dbz.zip
+L 龙珠Z2格斗- 超武斗大会  :  dbz2.zip
+D 电神魔傀（电精1代）  :  denjinmk.zip
+Y 宇宙巡航舰  :  gradius.zip
+G 古巴战士  :  gwarj.zip
+T 铁头小子2(天安神童2)  :  hardhea2.zip
+C 赤色要塞-豺狼部队  :  jackal.zip
+J 剑豪  :  kengo.zip
+S 兽化变形战士  :  metamrph.zip
+N 怒之忍者  :  mystwarr.zip
+Y 越战1975  :  nam1975.zip
+R 忍者棒球  :  nbbatman.zip
+T 特殊部队  :  tndrcade.zip
+B 暴风小子  :  viostorm.zip
+G 功夫小子  :  yiear.zip
+L 零组特攻队  :  zeroteam.zip
+G 光明使者  :  dungeonm.zip
+MAME[MAME2003]    4
+R 忍者蛙  :  btoads.zip
+Z 战斧后传  :  ga2j.zip
+M 民国教育委员会  :  quizchql.zip
+G 灌篮高手街机版  :  suprslam.zip
+MD    100
+Y 一门英烈杨家将  :  一门英烈杨家将.smd
+S 三国演义 火烧赤壁  :  三国演义 火烧赤壁.smd
+Z 中国象棋  :  中国象棋.smd
+S 侍魂  :  侍魂.bin
+G 光之继承者  :  光之继承者.bin
+G 光明与黑暗  :  光明与黑暗.smd
+G 光明力量1  :  光明力量1.smd
+G 光明力量2  :  光明力量2.smd
+G 光明十字军  :  光明十字军.smd
+G 光电领航员  :  光电领航员.smd
+C 冲破火网2  :  冲破火网2.smd
+C 出击飞龙  :  出击飞龙1.smd
+C 出击飞龙2  :  出击飞龙2.bin
+B 北斗神拳  :  北斗神拳.bin
+W 午夜魂斗罗  :  午夜魂斗罗.smd
+S 双截龙1  :  双截龙1.smd
+S 双截龙2  :  双截龙2.smd
+S 双截龙3  :  双截龙3.smd
+S 双截龙5  :  双截龙5.bin
+T 吞食天地3  :  吞食天地3.smd
+T 唐老鸭大冒险  :  唐老鸭大冒险.bin
+W 外星战将  :  外星战将.smd
+D 大航海时代2  :  大航海时代2.smd
+D 大魔界村  :  大魔界村.bin
+T 太空战士  :  太空战士.smd
+T 太空战斗机2  :  太空战斗机2.smd
+F 封神英杰传  :  封神英杰传.smd
+Y 幽游白书 魔强统一战  :  幽游白书 魔强统一战.smd
+Y 异形战士  :  异形战士.bin
+Y 异形风暴  :  异形风暴.smd
+Y 影舞者  :  影舞者.smd
+R 忍无可忍  :  忍无可忍.bin
+R 忍者神龟4  :  忍者神龟4.bin
+R 忍者神龟5  :  忍者神龟5.bin
+R 忍者蛙  :  忍者蛙.bin
+R 忍者蛙和双截龙  :  忍者蛙和双截龙.bin
+R 忍者龙剑传  :  忍者龙剑传.bin
+N 怒之铁拳1  :  怒之铁拳1.smd
+N 怒之铁拳2  :  怒之铁拳2.bin
+N 怒之铁拳3  :  怒之铁拳3.bin
+K 恐龙兄弟2  :  恐龙兄弟2.smd
+E 恶魔城 血族  :  恶魔城 血族.smd
+W 悟空外传  :  悟空外传.bin
+C 惩罚者  :  惩罚者.smd
+Z 战场之狼  :  战场之狼.smd
+Z 战斧1  :  战斧1.smd
+Z 战斧2  :  战斧2.smd
+Z 战斧3  :  战斧3.smd
+X 新创世纪  :  新创世纪.smd
+B 暴力克星  :  暴力克星.smd
+J 机械战警3  :  机械战警3.smd
+J 机械战警对终结者  :  机械战警对终结者.smd
+M 梦幻之星4  :  梦幻之星4.smd
+M 梦幻模拟战1  :  梦幻模拟战1.bin
+M 梦幻模拟战2  :  梦幻模拟战2.bin
+S 森林卫士  :  森林卫士.smd
+W 武者雅士达  :  武者雅士达.smd
+W 武装刑警  :  武装刑警.smd
+H 毁灭骑兵  :  毁灭骑兵.smd
+S 水浒传  :  水浒传.smd
+S 水浒风云传  :  水浒风云传.smd
+S 沙丘魔堡  :  沙丘魔堡.smd
+L 洛克人世界  :  洛克人世界.smd
+M 漫画地带  :  漫画地带.smd
+H 火枪英雄  :  火枪英雄.bin
+H 火箭骑士1  :  火箭骑士1.bin
+H 火箭骑士2  :  火箭骑士2.bin
+B 爆笑三国  :  爆笑三国.smd
+T 特殊部队357  :  特殊部队357.smd
+H 皇帝的财宝  :  皇帝的财宝.bin
+K 空中魂斗罗  :  空中魂斗罗.smd
+K 空牙  :  空牙.smd
+L 粒子战士1  :  粒子战士1.smd
+L 粒子战士2  :  粒子战士2.smd
+S 索尼克1  :  索尼克1.smd
+S 索尼克2  :  索尼克2.smd
+S 索尼克3  :  索尼克3.smd
+Z 终结者2  :  终结者2.smd
+Q 蚯蚓战士1  :  蚯蚓战士1.bin
+Q 蚯蚓战士2  :  蚯蚓战士2.bin
+B 蝙蝠侠与罗宾  :  蝙蝠侠与罗宾.bin
+J 街头赛车  :  街头赛车.smd
+J 街头霸王2 PLUS  :  街头霸王2 PLUS.bin
+J 街头霸王2 SUPER  :  街头霸王2 SUPER.smd
+X 西部牛仔  :  西部牛仔.smd
+H 豪血寺一族  :  豪血寺一族.bin
+C 超级忍1  :  超级忍1.smd
+C 超级忍2  :  超级忍2.bin
+C 超级马力奥  :  超级马力奥.smd
+G 钢铁帝国  :  钢铁帝国.bin
+S 闪电出击4  :  闪电出击4.smd
+L 零翼战机  :  零翼战机.bin
+L 雷电传说  :  雷电传说.smd
+L 雷霆任务2  :  雷霆任务2.smd
+L 雷霆任务3  :  雷霆任务3.smd
+F 风中奇缘  :  风中奇缘.smd
+E 饿狼传说2  :  饿狼传说2.smd
+K 骷髅战机  :  骷髅战机.bin
+H 魂斗罗 铁血军团  :  魂斗罗 铁血军团.bin
+J 鲛!鲛!鲛!  :  鲛!鲛!鲛!.bin
+Naomi    35
+H 合金弹头6  :  mslug6.zip
+X 新·三国战纪-七星转生  :  kov7sprt.zip
+L 蓝海豚  :  dolphin.zip
+B 北斗神拳  :  fotns.zip
+S 侍魂6-天下一剑客传  :  samsptk.zip
+Q 拳皇-新浪潮  :  kofnw.zip
+Q 拳皇11  :  kofxi.zip
+P 破坏拳  :  demofist.zip
+D 斗鱼1  :  rumblef.zip
+D 斗鱼2  :  rumblef2.zip
+R 燃烧吧！正义学园  :  pjustic.zip
+D 电光战记  :  ausfache.zip
+Q 卡普空对SNK：千年之战2000加强版  :  cvsgd.zip
+Q 卡普空对SNK 2：百万格斗2001  :  cvs2mf.zip
+Z 罪恶装备XX  :  ggxx.zip
+Z 罪恶装备XXReload  :  ggxxrl.zip
+Z 罪恶装备XXSlash  :  ggxxsla.zip
+Z 罪恶装备XXAccent Core  :  ggxxac.zip
+B 斑鸠  :  ikaruga.zip
+M 漫画英雄对卡普空2  :  mvsc2.zip
+Y 月姬格斗  :  mbaa.zip
+S 式神之城2  :  shikgam2.zip
+T 天翔铁骑  :  undefeat.zip
+X 虚拟NBA  :  virnba.zip
+VR射手2-2000  :  vs2_2k.zip
+X 虚拟网球2  :  vtenis2c.zip
+H 豪斩  :  slasho.zip
+S 神枪机兵  :  cspike.zip
+S 死或生2  :  doa2m.zip
+NEOGEO格斗竞技场  :  ngbc.zip
+L 零式枪手2  :  zerogu2.zip
+R 锐击 格斗板  :  spkrbtl.zip
+K 快打刑事ex  :  asndynmt.zip
+N 能量宝石2  :  pstone2.zip
+P 破茧先锋  :  bdrdown.zip
+NEOGEO    72
+T 痛快GANGAN进行曲  :  aodk.zip
+L 龙虎之拳1  :  aof.zip
+L 龙虎之拳2  :  aof2.zip
+L 龙虎之拳3  :  aof3.zip
+P 碰碰球大战  :  bangbead.zip
+P 碰碰球  :  bangbead.zip
+S 闪亮之星  :  blazstar.zip
+B 爆裂人  :  breakers.zip
+B 爆裂人复仇  :  breakrev.zip
+R 热血快打  :  burningf.zip
+F 番茄超人  :  ctomaday.zip
+S 双截龙格斗  :  doubledr.zip
+E 饿狼传说3  :  fatfury3.zip
+W 武藏严流记  :  ganryu.zip
+E 饿狼传说 狼之印记  :  garou.zip
+T 天外魔境真传-东方伊甸园  :  kabukikl.zip
+F 风云默示录2 超级组队战  :  kizuna.zip
+Q 拳皇2004特别版  :  kof2k4se.zip
+Q 拳皇十周年纪念版  :  kof10th.zip
+Q 拳皇94  :  kof94.zip
+Q 拳皇95  :  kof95.zip
+Q 拳皇96  :  kof96.zip
+Q 拳皇97  :  kof97.zip
+Q 拳皇98  :  kof98.zip
+Q 拳皇99  :  kof99.zip
+Q 拳皇2000  :  kof2000.zip
+Q 拳皇2001  :  kof2001.zip
+Q 拳皇2002  :  kof2002.zip
+Q 拳皇2003  :  kof2003.zip
+Y 月华剑士1  :  lastblad.zip
+Y 月华剑士2  :  lastbld2.zip
+Z 终极手段  :  lresort.zip
+X 新豪血寺一族-斗婚  :  matrim.zip
+H 合金弹头1  :  mslug.zip
+H 合金弹头2  :  mslug2.zip
+H 合金弹头3  :  mslug3.zip
+H 合金弹头4  :  mslug4.zip
+H 合金弹头5  :  mslug5.zip
+H 合金弹头X  :  mslugx.zip
+W 外星游龙  :  mutnat.zip
+R 忍者指令  :  ncommand.zip
+Neo炸弹人机皇版  :  neobombe.zip
+neogeo模拟器bios文件（请勿运行）  :  neogeo.zip
+B 霸王忍法帖  :  ninjamas.zip
+W 午夜噩梦  :  nitd.zip
+P 泡泡龙2机皇版  :  pbobbl2n.zip
+C 宠物方块  :  pnyaa.zip
+Y 原始岛2  :  preisle2.zip
+RB饿狼传说1  :  rbff1.zip
+RB饿狼传说2  :  rbff2.zip
+RB饿狼传说特别版  :  rbffspec.zip
+J 机甲神兵  :  roboarmy.zip
+L 龙吼  :  rotd.zip
+D 打击者1945加强版  :  s1945p.zip
+S 侍魂1：十二剑客录  :  samsho.zip
+Z 真侍魂：霸王丸地狱变  :  samsho2.zip
+S 侍魂3：斩红郎无双剑  :  samsho3.zip
+S 侍魂4：天草降临  :  samsho4.zip
+S 侍魂零  :  samsho5.zip
+F 风云默示录  :  savagere.zip
+Z 战国传承  :  sengoku.zip
+Z 战国传承2  :  sengoku2.zip
+Z 战国传承3  :  sengoku3.zip
+T 突击骑兵2  :  shocktr2.zip
+T 突击骑兵  :  shocktro.zip
+Q 强尼大冒险  :  spinmast.zip
+J 街头篮球  :  strhoop.zip
+SNK VS 卡普空  :  svc.zip
+D 顶尖猎人：罗迪和凯茜  :  tophuntr.zip
+M 梦幻小妖精  :  twinspri.zip
+H 火热火热7  :  wakuwak7.zip
+Z字军刀  :  zedblade.zip
+NES    255
+1943  :  1943.nes
+1944  :  1944.nes
+AV麻将  :  AV麻将.nes
+FC原人  :  FC原人.nes
+SD英雄总决战  :  SD英雄总决战.nes
+A 阿贝道X  :  阿贝道X.nes
+A 阿拉丁  :  阿拉丁.nes
+A 爱战士尼科鲁  :  爱战士尼科鲁.nes
+B 宝石方块  :  宝石方块.nes
+B 暴力溜冰  :  暴力溜冰.nes
+B 蝙蝠侠1  :  蝙蝠侠1.nes
+B 蝙蝠侠2-小丑回归  :  蝙蝠侠2.nes
+B 蝙蝠侠3-蝙蝠侠归来  :  蝙蝠侠3.nes
+B 宾尼兔1  :  宾尼兔1.nes
+B 宾尼兔2  :  宾尼兔2.nes
+B 兵蜂1  :  兵蜂1.nes
+B 兵蜂2  :  兵蜂2.nes
+B 兵蜂3  :  兵蜂3.nes
+C 彩虹岛  :  彩虹岛.nes
+C 超惑星战记  :  超惑星战记.nes
+C 超级厨师  :  超级厨师.nes
+C 超级间谍猎人  :  超级间谍猎人.nes
+C 超级马里奥1  :  超级马里奥1.nes
+C 超级马里奥2  :  超级马里奥2.nes
+C 超级马里奥2 失落的关卡  :  超级马里奥2 失落的关卡.nes
+C 超级马里奥3  :  超级马里奥3.nes
+C 超级马里奥世界  :  超级马里奥世界.nes
+C 超级中国人2  :  超级中国人2.nes
+C 成龙踢馆2  :  成龙踢馆2.nes
+C 成龙之龙  :  成龙之龙.nes
+C 惩罚者  :  惩罚者.nes
+C 赤色要塞  :  赤色要塞.nes
+C 赤影战士  :  赤影战士.nes
+D 打空气  :  打空气.nes
+D 打砖块  :  打砖块.nes
+D 大混战  :  大混战.nes
+D 大力工头阿源君1  :  大力工头阿源君1.nes
+D 大力工头阿源君2  :  大力工头阿源君2.nes
+D 大眼蛙冒险1  :  大眼蛙冒险1.nes
+D 大眼蛙冒险2  :  大眼蛙冒险2.nes
+D 刀锋力量1  :  刀锋力量1.nes
+D 刀锋力量2  :  刀锋力量2.nes
+D 地狱极乐丸  :  地狱极乐丸.nes
+D 帝国战机  :  帝国战机.nes
+D 第2次超级机器人大战  :  第2次超级机器人大战.nes
+D 斗者挽歌  :  斗者挽歌.nes
+D 哆啦A梦  :  哆啦A梦.nes
+E 俄罗斯方块1  :  俄罗斯方块1.nes
+E 俄罗斯方块2  :  俄罗斯方块2.nes
+E 恶魔城1  :  恶魔城1.nes
+E 恶魔城2  :  恶魔城2.nes
+E 恶魔城3  :  恶魔城3.nes
+E 恶魔城外传 王子外传  :  恶魔城外传 王子传奇.nes
+E 鳄鱼先生  :  鳄鱼先生.nes
+F 菲力猫  :  菲力猫.nes
+F 飞行勇士  :  飞行勇士.nes
+F 飞翔鲛  :  飞翔鲛.nes
+F 封神榜  :  封神榜.nes
+F 斧王  :  斧王.nes
+G 孤独战士 惑星戒严令  :  孤独战士 惑星戒严令.nes
+G 古巴英雄  :  古巴英雄.nes
+G 怪鸭历险记  :  怪鸭历险记.nes
+H 合金装备1  :  合金装备1.nes
+H 合金装备2  :  合金装备2.nes
+H 花式撞球  :  花式撞球.nes
+H 荒野大镖客  :  荒野大镖客.nes
+H 混沌世界  :  混沌世界.nes
+H 魂斗罗1  :  魂斗罗1.nes
+H 魂斗罗2  :  魂斗罗2.nes
+H 魂斗罗3 力量  :  魂斗罗3 力量.nes
+H 火箭车  :  火箭车.nes
+H 火箭人  :  火箭人.nes
+H 火炮侦探  :  火炮侦探.nes
+H 火焰之纹章 暗黑龙与光之剑  :  火焰之纹章 暗黑龙与光之剑.nes
+H 火焰之纹章外传  :  火焰之纹章外传.nes
+H 火之鸟  :  火之鸟.nes
+J 机车大赛  :  机车大赛.nes
+J 激斗四驱车  :  激斗四驱车.nes
+J 机械战警1  :  机械战警1.nes
+J 机械战警2  :  机械战警2.nes
+J 机械战警3  :  机械战警3.nes
+J 吉米克  :  吉米克.nes
+J 加纳战机  :  加纳战机.nes
+J 嘉蒂外传  :  嘉蒂外传.nes
+J 假面忍者花丸  :  假面忍者花丸.nes
+J 剑王  :  剑王.nes
+J 街头霸王  :  街头霸王.nes
+J 究极虎  :  究极虎.nes
+K 柯纳米世界1  :  柯纳米世界1.nes
+K 柯纳米世界2  :  柯纳米世界2.nes
+K 空中魂斗罗 最终任务  :  空中魂斗罗 最终任务.nes
+K 快打旋风3  :  快打旋风3.nes
+K 快打旋风SD  :  快打旋风SD.nes
+K 快杰洋枪丸1  :  快杰洋枪丸1.nes
+K 快杰洋枪丸2  :  快杰洋枪丸2.nes
+K 快杰洋枪丸3  :  快杰洋枪丸3.nes
+L 拉格朗日点  :  拉格朗日点.nes
+L 雷电节奏  :  雷电节奏.nes
+L 烈火  :  烈火.nes
+L 龙魂 新的传说  :  龙魂 新的传说.nes
+L 龙牙  :  龙牙.nes
+L 龙战士  :  龙战士.nes
+L 龙之忍者  :  龙之忍者.nes
+L 龙珠Z2 激神弗利萨  :  龙珠Z2 激神弗利萨.nes
+L 龙珠Z3 烈战人造人间  :  龙珠Z3 烈战人造人间.nes
+L 洛克人1  :  洛克人1.nes
+L 洛克人2  :  洛克人2.nes
+L 洛克人3  :  洛克人3.nes
+L 洛克人4  :  洛克人4.nes
+L 洛克人5  :  洛克人5.nes
+L 洛克人6  :  洛克人6.nes
+L 罗罗大冒险1  :  罗罗大冒险1.nes
+L 罗罗大冒险2  :  罗罗大冒险2.nes
+L 罗罗大冒险3  :  罗罗大冒险3.nes
+L 绿色兵团  :  绿色兵团.nes
+M 马戏团  :  马戏团.nes
+M 猫和老鼠  :  猫和老鼠.nes
+M 猫抓老鼠  :  猫抓老鼠.nes
+M 冒险岛1  :  冒险岛1.nes
+M 冒险岛2  :  冒险岛2.nes
+M 冒险岛3  :  冒险岛3.nes
+M 冒险岛4  :  冒险岛4.nes
+M 迷宫岛  :  迷宫岛.nes
+M 迷糊蛋  :  迷糊蛋.nes
+M 魔城传说2 大魔司教  :  魔城传说2 大魔司教.nes
+M 魔道士的阴谋  :  魔道士的阴谋.nes
+M 摩登原始人1  :  摩登原始人1.nes
+M 摩登原始人2  :  摩登原始人2.nes
+M 魔法总动员  :  魔法总动员.nes
+M 魔鬼总动员  :  魔鬼总动员.nes
+M 魔界村  :  魔界村.nes
+M 魔神英雄传外传  :  魔神英雄传外传.nes
+M 魔天童子  :  魔天童子.nes
+N 鸟人战队  :  鸟人战队.nes
+N 纽约大拳猫  :  纽约大拳猫.nes
+N 怒1  :  怒1.nes
+N 怒2  :  怒2.nes
+N 怒3  :  怒3.nes
+P 泡泡龙1  :  泡泡龙1.nes
+P 泡泡龙2  :  泡泡龙2.nes
+P 霹雳神兵  :  霹雳神兵.nes
+Q 七宝奇谋  :  七宝奇谋.nes
+M 梦之企鹅物语  :  梦之企鹅物语.nes
+R 热血高校躲避球  :  热血高校躲避球.nes
+R 热血高校躲避球部 足球篇  :  热血高校躲避球部 足球篇.nes
+R 热血格斗传说  :  热血格斗传说.nes
+R 热血进行曲  :  热血进行曲.nes
+R 热血篮球  :  热血篮球.nes
+R 热血曲棍球  :  热血曲棍球.nes
+R 热血时代剧  :  热血时代剧.nes
+R 热血物语  :  热血物语.nes
+R 热血新记录  :  热血新记录.nes
+R 热血硬派  :  热血硬派.nes
+R 热血足球联盟  :  热血足球联盟.nes
+R 人间兵器1  :  人间兵器1.nes
+R 人间兵器2 雷霆任务  :  人间兵器2 雷霆任务.nes
+R 忍者茶茶丸  :  忍者茶茶丸.nes
+R 忍者龙剑传1  :  忍者龙剑传1.nes
+R 忍者龙剑传2  :  忍者龙剑传2.nes
+R 忍者龙剑传3  :  忍者龙剑传3.nes
+R 忍者猫  :  忍者猫.nes
+R 忍者神龟1  :  忍者神龟1.nes
+R 忍者神龟2  :  忍者神龟2.nes
+R 忍者神龟3  :  忍者神龟3.nes
+R 忍者神龟4 激龟快打  :  忍者神龟4 激龟快打.nes
+R 忍者蛙  :  忍者蛙.nes
+R 忍者蛙和双截龙  :  忍者蛙和双截龙.nes
+S 塞尔达传说1 幻想大陆海拉尔  :  塞尔达传说1 幻想大陆海拉尔.nes
+S 塞尔达传说2 林克的冒险  :  塞尔达传说2 林克的冒险.nes
+S 三国志1 中原之霸者  :  三国志1 中原之霸者.nes
+S 三国志2 霸王的大陆  :  三国志2 霸王的大陆.nes
+S 三目童子  :  三目童子.nes
+S 杀虫战记  :  杀虫战记.nes
+S 沙罗曼蛇  :  沙罗曼蛇.nes
+S 上尉密令  :  上尉密令.nes
+S 少年印第安纳琼斯  :  少年印第安纳琼斯.nes
+S 神秘之结  :  神秘之结.nes
+S 圣斗士星矢 黄金传说  :  圣斗士星矢 黄金传说.nes
+S 圣斗士星矢 黄金传说完结篇  :  圣斗士星矢 黄金传说完结篇.nes
+S 生化尖兵  :  生化尖兵.nes
+S 圣铃传说  :  圣铃传说.nes
+S 时间旅行者  :  时间旅行者.nes
+S 时空地带  :  时空地带.nes
+S 双截龙1  :  双截龙1.nes
+S 双截龙2  :  双截龙2.nes
+S 双截龙3  :  双截龙3.nes
+S 双翼人  :  双翼人.nes
+S 睡梦英雄  :  睡梦英雄.nes
+S 四川麻将 海滩篇  :  四川麻将 海滩篇.nes
+S 松鼠大作战1  :  松鼠大作战1.nes
+S 松鼠大作战2  :  松鼠大作战2.nes
+T 太阳系战机  :  太阳系战机.nes
+T 太阳勇者  :  太阳勇者.nes
+H 航空小英雄  :  航空小英雄.nes
+T 坦克大战 烟山1990  :  坦克大战 烟山1990.nes
+T 坦克大战  :  坦克大战.nes
+T 唐老鸭梦冒险1  :  唐老鸭梦冒险1.nes
+T 唐老鸭梦冒险2  :  唐老鸭梦冒险2.nes
+T 淘金者  :  淘金者.nes
+T 特救指令  :  特救指令.nes
+T 踢王  :  踢王.nes
+T 天神之剑  :  天神之剑.nes
+T 天使之翼2  :  天使之翼2.nes
+T 铁胆坦克  :  铁胆坦克.nes
+T 吞食天地1 三国英杰传  :  吞食天地1 三国英杰传.nes
+T 吞食天地2 曹魏的野望  :  吞食天地2 曹魏的野望.nes
+T 吞食天地2 秋风五丈原  :  吞食天地2 秋风五丈原.nes
+T 吞食天地2 诸葛孔明传  :  吞食天地2 诸葛孔明传.nes
+T 吞食天地2 诸葛孔明传复刻版  :  吞食天地2 诸葛孔明传复刻版.nes
+T 脱狱1  :  脱狱1.nes
+T 脱狱2  :  脱狱2.nes
+W 外星战将  :  外星战将.nes
+W 顽皮狗  :  顽皮狗.nes
+W 未来战士  :  未来战士.nes
+X 西游记世界1  :  西游记世界1.nes
+X 西游记世界2 天上界的魔神  :  西游记世界2 天上界的魔神.nes
+X 香蕉王子大冒险  :  香蕉王子大冒险.nes
+X 小美人鱼  :  小美人鱼.nes
+X 星际魂斗罗 最终殖民地  :  星际魂斗罗 最终殖民地.nes
+X 星之卡比 梦之泉物语  :  星之卡比 梦之泉物语.nes
+X 雪人兄弟  :  雪人兄弟.nes
+Y 眼镜蛇特种部队1  :  眼镜蛇特种部队1.nes
+Y 眼镜蛇特种部队2  :  眼镜蛇特种部队2.nes
+Y 野狼特工队  :  野狼特工队.nes
+Y 异形3  :  异形3.nes
+Y 异域诛魂  :  异域诛魂.nes
+Y 银河号  :  银河号.nes
+Y 银河战士  :  银河战士.nes
+Y 影子传说  :  影子传说.nes
+Y 勇士们  :  勇士们.nes
+Y 勇者斗恶龙1  :  勇者斗恶龙1.nes
+Y 勇者斗恶龙2  :  勇者斗恶龙2.nes
+Y 勇者斗恶龙3  :  勇者斗恶龙3.nes
+Y 勇者斗恶龙4  :  勇者斗恶龙4.nes
+Y 游园地  :  游园地.nes
+Y 宇宙巡航机1  :  宇宙巡航机1.nes
+Y 宇宙巡航机2  :  宇宙巡航机2.nes
+Y 月宫桌球  :  月宫桌球.nes
+Y 越野机车  :  越野机车.nes
+Z 炸弹人  :  炸弹人.nes
+Z 詹姆斯邦德007  :  詹姆斯邦德007.nes
+Z 战场之狼  :  战场之狼.nes
+Z 战地小子1  :  战地小子1.nes
+Z 战地小子2  :  战地小子2.nes
+Z 战斗原始人  :  战斗原始人.nes
+C 长枪手传奇  :  长枪手传奇.nes
+Z 智慧砖块  :  智慧砖块.nes
+Z 中东战争  :  中东战争.nes
+Z 中国象棋  :  中国象棋.nes
+Z 中华大仙  :  中华大仙.nes
+Z 重力装甲  :  重力装甲.nes
+Z 重装机兵  :  重装机兵.nes
+Z 侏罗纪公园  :  侏罗纪公园.nes
+Z 最终幻想1+2  :  最终幻想1+2.nes
+Z 最终幻想3  :  最终幻想3.nes
+PCE    68
+1943改  :  1943改.pce
+F1大赛车  :  F1大赛车.pce
+F1竞技场92 音速  :  F1竞技场92 音速.pce
+PC电人  :  PC电人.pce
+PC原人  :  PC原人.pce
+PC原人2  :  PC原人2.pce
+PC原人3  :  PC原人3.pce
+Q版沙罗曼蛇  :  Q版沙罗曼蛇.pce
+B 兵蜂  :  兵蜂.pce
+C 超级网球  :  超级网球.pce
+C 超级星际战士  :  超级星际战士.pce
+C 成龙之龙  :  成龙之龙.pce
+C 城市猎人  :  城市猎人.pce
+C 吃豆人  :  吃豆人.pce
+C 冲破火网2  :  冲破火网2.pce
+D 大地纹章  :  大地纹章.pce
+D 大旋风  :  大旋风.pce
+D 地狱之旅  :  地狱之旅.pce
+D 都市计划  :  都市计划.pce
+D 夺命战士2  :  夺命战士2.pce
+F 飞装骑兵  :  飞装骑兵.pce
+H 户外大飙车  :  户外大飙车.pce
+G 改造超人  :  改造超人.pce
+G 改造超人2  :  改造超人2.pce
+G 功夫  :  功夫.pce
+J 街头霸王2 冠军版  :  街头霸王2 冠军版.pce
+J 究极虎  :  究极虎.pce
+Q 卡达叙传说  :  卡达叙传说.pce
+L 雷电  :  雷电.pce
+L 龙之刃  :  龙之刃.pce
+M 冒险岛  :  冒险岛.pce
+M 美国职业篮球  :  美国职业篮球.pce
+M 魔洞战记  :  魔洞战记.pce
+M 魔神英雄传  :  魔神英雄传.pce
+P 霹雳游侠  :  霹雳游侠.pce
+Q 凄狂传说  :  凄狂传说.pce
+Q 奇奇怪界  :  奇奇怪界.pce
+R 燃烧天使  :  燃烧天使.pce
+R 热血高校躲避球部 PC番外篇  :  热血高校躲避球部 PC番外篇.pce
+R 热血高校躲避球部 PC足球篇  :  热血高校躲避球部 PC足球篇.pce
+R 忍者龙剑传  :  忍者龙剑传.pce
+S 沙罗曼蛇  :  沙罗曼蛇.pce
+S 神奇女孩  :  神奇女孩.pce
+S 世界冒险记  :  世界冒险记.pce
+S 世界冒险记2  :  世界冒险记2.pce
+S 兽王记  :  兽王记.pce
+T 太空侵略者 复活之日  :  太空侵略者 复活之日.pce
+T 太空战斗机Plus  :  太空战斗机Plus.pce
+T 桃太郎传说 加强版  :  桃太郎传说 加强版.pce
+T 桃太郎传说2  :  桃太郎传说2.pce
+X 西游记2  :  西游记2.pce
+X 小蜜蜂88  :  小蜜蜂88.pce
+X 邪圣剑  :  邪圣剑.pce
+X 新冒险岛  :  新冒险岛.pce
+X 血狼  :  血狼.pce
+Y 宇宙双鹰  :  宇宙双鹰.pce
+Y 宇宙巡航机  :  宇宙巡航机.pce
+Z 炸弹人  :  炸弹人.pce
+Z 炸弹人93  :  炸弹人93.pce
+Z 炸弹人94  :  炸弹人94.pce
+Z 遮阳伞之星  :  遮阳伞之星.pce
+Z 终级赛车  :  终级赛车.pce
+Z 最后的忍道  :  最后的忍道.pce
+Z 最终战机  :  最终战机.pce
+PCE-CD 恶魔城 血之轮回  :  CD恶魔城 血之轮回.cue
+PCE-CD 伊苏4  :  CD伊苏4.cue
+PCE-CD 风之传说2  :  CD风之传说2.cue
+PCE-CD 双截龙2-复仇  :  CD双截龙2-复仇.cue
+PGM    20
+S 三国战纪  :  kov.zip
+S 三国战纪 正宗 Plus  :  kovplusa.zip
+S 三国战纪 风云再起  :  kovsh.zip
+S 三国战纪2  :  kov2.zip
+X 西游释厄传  :  orlegendc.zip
+X 西游释厄伝SUPER  :  olds.zip
+X 西游释厄传 - 群魔乱舞  :  oldsplus.zip
+S 神剑伏魔录  :  theglad100.zip
+M 魔域战线  :  dmnfrnta.zip
+C 长空超翼神  :  espgal.zip
+S 圣魔世纪  :  svg.zip
+A 傲剑狂刀  :  killbld.zip
+A 傲剑狂刀 加强版  :  killbldp.zip
+X 形意拳  :  martmastc.zip
+J 决意：绊地狱  :  ket.zip
+N 怒首领蜂2：蜂暴  :  ddp2101c.zip
+N 怒首领蜂：大往生  :  ddpdoj.zip
+H 欢乐六合一  :  happy6.zip
+M 魔幻星座  :  puzlstar.zip
+P 泡泡鱼2超级版  :  puzzli2s.zip
+PS    4
+E 恶魔城X 月下夜想曲  :  Castlevania Symphony of the Night.pbp
+F 放浪冒险谭  :  Vagrant Story.pbp
+S 射雕英雄传  :  Shachou Eiyuuden.pbp
+A 阿兰多拉  :  Alundra.pbp
+SNES    100
+B 暴力刑警  :  暴力刑警.smc
+B 北斗神拳7  :  北斗神拳7.sfc
+B 蝙蝠侠与罗宾  :  蝙蝠侠与罗宾.sfc
+C 超级马里奥1-3  :  超级马里奥1-3.sfc
+C 超级马里奥4  :  超级马里奥4.smc
+C 超级马里奥拆屋工  :  超级马里奥拆屋工.smc
+C 超级马里奥赛车  :  超级马里奥赛车.smc
+C 超级马里奥医生  :  超级马里奥医生.sfc
+C 超级银河战士  :  超级银河战士.sfc
+C 超魔界村  :  超魔界村.smc
+D 大冒险岛1  :  大冒险岛1.smc
+D 大冒险岛2  :  大冒险岛2.smc
+D 第3次超级机器人大战  :  第3次超级机器人大战.sfc
+D 第4次超级机器人大战  :  第4次超级机器人大战.sfc
+D 电精  :  电精.sfc
+E 恶魔城4  :  恶魔城4.smc
+E 恶魔城XX  :  恶魔城XX.smc
+E 饿狼传说特别版  :  饿狼传说特别版.sfc
+G 钢铁战士  :  钢铁战士.smc
+H 豪血寺一族  :  豪血寺一族.smc
+H 荒野双枪  :  荒野双枪.smc
+H 毁灭骑兵  :  毁灭骑兵.sfc
+H 魂斗罗3 精神  :  魂斗罗3 精神.smc
+H 火箭骑士2  :  火箭骑士2.smc
+H 火焰之纹章3 纹章之谜  :  火焰之纹章3 纹章之谜.sfc
+H 火焰之纹章4 圣战之系谱  :  火焰之纹章4 圣战之系谱.sfc
+H 火焰之纹章5 多拉基亚776  :  火焰之纹章5 多拉基亚776.sfc
+J 机械战警3  :  机械战警3.sfc
+J 机械战警对终结者  :  机械战警对终结者.sfc
+J 激走战队  :  激走战队.smc
+J 街头霸王 ZERO2  :  街头霸王 ZERO2.sfc
+J 街头霸王2 SUPER  :  街头霸王2 SUPER.sfc
+J 街头霸王2 TURBO  :  街头霸王2 TURBO.sfc
+J 街头赛车  :  街头赛车.smc
+K 快打刑警1  :  快打刑警1.smc
+K 快打刑警2 乱  :  快打刑警2 乱.smc
+K 快打刑警3 修罗  :  快打刑警3 修罗.smc
+K 快打旋风  :  快打旋风1.sfc
+K 快打旋风2  :  快打旋风2.smc
+K 快打旋风3  :  快打旋风3.smc
+L 雷电传说  :  雷电传说.sfc
+L 零式特攻队  :  零式特攻队.smc
+L 龙虎之拳2  :  龙虎之拳2.smc
+L 龙珠Z 超悟空传 觉醒篇  :  龙珠Z 超悟空传 觉醒篇.sfc
+L 龙珠Z 超悟空传 突激篇  :  龙珠Z 超悟空传 突激篇.sfc
+L 洛克人7  :  洛克人7.sfc
+L 洛克人X1  :  洛克人X1.sfc
+L 洛克人X2  :  洛克人X2.sfc
+L 洛克人X3  :  洛克人X3.sfc
+L 洛克人与佛鲁迪  :  洛克人与佛鲁迪.sfc
+M 梦幻模拟战2  :  梦幻模拟战2.smc
+M 秘境魔宝  :  秘境魔宝.smc
+M 牧场物语  :  牧场物语.sfc
+N 鸟人战队1  :  鸟人战队1.sfc
+N 鸟人战队2  :  鸟人战队2.smc
+N 怒之要塞  :  怒之要塞.smc
+Q 前线任务  :  前线任务.sfc
+Q 蚯蚓战士1  :  蚯蚓战士1.smc
+Q 蚯蚓战士2  :  蚯蚓战士2.smc
+R 忍者龙剑传合集  :  忍者龙剑传合集.sfc
+R 忍者神龟4  :  忍者神龟4.sfc
+R 忍者神龟5  :  忍者神龟5.sfc
+R 忍者蛙  :  忍者蛙.smc
+R 忍者蛙和双截龙  :  忍者蛙和双截龙.smc
+R 忍者战士 牙  :  忍者战士 牙.smc
+S 塞尔达传说 三角力量  :  塞尔达传说 三角力量.smc
+S 闪电出击  :  闪电出击.sfc
+S 圣剑传说3  :  圣剑传说3.smc
+S 时空战警  :  时空战警.smc
+S 时空之轮  :  时空之轮.sfc
+S 侍魂  :  侍魂.sfc
+S 双截龙4 回归  :  双截龙4 回归.smc
+S 双截龙5  :  双截龙5.smc
+S 四大名将  :  四大名将.smc
+S 四国战机  :  四国战机.smc
+T 太空战斗机 力量  :  太空战斗机 力量.sfc
+T 太空战斗机 双子  :  太空战斗机 双子.sfc
+T 唐老鸭大冒险  :  唐老鸭大冒险.sfc
+T 天地创造  :  天地创造.sfc
+T 天龙斩  :  天龙斩.smc
+T 铁头战士  :  铁头战士.smc
+T 兔宝宝大冒险  :  兔宝宝大冒险.smc
+T 吞食天地3 三国志群雄传  :  吞食天地3 三国志群雄传.sfc
+X 新热血硬派  :  新热血硬派.smc
+X 星际火狐  :  星际火狐.smc
+X 星之卡比3  :  星之卡比3.smc
+X 幸运的卢克  :  幸运的卢克.sfc
+X 修罗战士 钢  :  修罗战士 钢.smc
+Y 耀西岛  :  耀西岛.smc
+Y 异形对铁血战士  :  异形对铁血战士.smc
+Y 异形战机3  :  异形战机3.smc
+Y 勇者斗恶龙6  :  勇者斗恶龙6.sfc
+Y 宇宙巡航机3  :  宇宙巡航机3.smc
+Y 圆桌骑士  :  圆桌骑士.smc
+Z 战国传承  :  战国传承.sfc
+Z 终结者2 审判日  :  终结者2 审判日.sfc
+Z 钟楼  :  钟楼.smc
+Z 重装机兵1 回归  :  重装机兵1 回归.sfc
+Z 重装机兵2  :  重装机兵2.sfc
+Z 最终幻想6  :  最终幻想6.sfc
