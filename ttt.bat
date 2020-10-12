@@ -1,0 +1,12 @@
+@echo off
+echo a
+TIMEOUT /T 2 /NOBREAK > NUL
+echo b
+TIMEOUT /T 2 /NOBREAK > NUL
+echo c
+TIMEOUT /T 2 /NOBREAK > NUL
+echo d
+TIMEOUT /T 2 /NOBREAK > NUL
+echo e
+TIMEOUT /T 2 /NOBREAK > NUL
+
